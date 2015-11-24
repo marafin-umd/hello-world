@@ -1,2 +1,3 @@
 # hello-world
-basic hello world for git
+
+This is the basic "hello world" for git
